@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MachineFeed.props" />
+</Project>
